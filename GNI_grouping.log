@@ -1,0 +1,51 @@
+2025-10-29 22:35:29,872 - INFO - 开始处理GNI元数据文件...
+2025-10-29 22:35:29,872 - INFO - 开始处理元数据文件...
+2025-10-29 22:35:29,879 - INFO - 读取文件: Z:\local_environment_creation\cost\API_NY.GNP.PCAP.KD_DS2_en_csv_v2_124220\Metadata_Country_API_NY.GNP.PCAP.KD_DS2_en_csv_v2_124220.csv
+2025-10-29 22:35:29,902 - ERROR - 主程序执行出错: 'utf-8' codec can't decode byte 0xa8 in position 10791: invalid start byte
+2025-10-29 22:35:39,778 - INFO - 开始处理GNI元数据文件...
+2025-10-29 22:35:39,778 - INFO - 开始处理元数据文件...
+2025-10-29 22:35:39,794 - INFO - 读取文件: Z:\local_environment_creation\cost\API_NY.GNP.PCAP.KD_DS2_en_csv_v2_124220\Metadata_Country_API_NY.GNP.PCAP.KD_DS2_en_csv_v2_124220.csv
+2025-10-29 22:35:39,815 - ERROR - 主程序执行出错: 'utf-8' codec can't decode byte 0xa8 in position 10791: invalid start byte
+2025-10-29 22:39:46,914 - INFO - 开始处理GNI元数据文件...
+2025-10-29 22:39:46,914 - INFO - 开始处理元数据文件...
+2025-10-29 22:39:46,920 - INFO - 读取文件: Z:\local_environment_creation\cost\API_NY.GNP.PCAP.KD_DS2_en_csv_v2_124220\Metadata_Country_API_NY.GNP.PCAP.KD_DS2_en_csv_v2_124220.csv
+2025-10-29 22:39:46,939 - INFO - 成功使用编码 'latin-1' 读取文件
+2025-10-29 22:39:46,939 - INFO - 成功读取文件，共 265 行，4 列（使用编码: latin-1）
+2025-10-29 22:39:46,940 - INFO - 原始列名: ['Country Code', 'Region', 'IncomeGroup', 'TableName']
+2025-10-29 22:39:46,940 - INFO - 开始加载参考数据...
+2025-10-29 22:39:46,960 - INFO - 成功使用编码 'utf-8' 读取参考文件
+2025-10-29 22:39:46,960 - INFO - 成功加载参考数据，共 266 行（使用编码: utf-8）
+2025-10-29 22:39:46,972 - INFO - 创建了 222 个Country Code到Country Code_2的映射
+2025-10-29 22:39:46,972 - INFO - 已将TableName列改名为Country Name
+2025-10-29 22:39:46,973 - INFO - 开始匹配Country Code_2...
+2025-10-29 22:39:46,983 - INFO - 成功匹配: 222 个国家
+2025-10-29 22:39:46,983 - INFO - 未匹配: 43 个国家/地区
+2025-10-29 22:39:46,984 - INFO - 调整后的列顺序: ['IncomeGroup', 'Country Name', 'Country Code', 'Country Code_2', 'Region']
+2025-10-29 22:39:46,985 - INFO - 开始排序...
+2025-10-29 22:39:46,988 - INFO - 排序完成
+2025-10-29 22:39:46,989 - INFO - === 统计信息 ===
+2025-10-29 22:39:46,989 - INFO - 总行数: 265
+2025-10-29 22:39:46,990 - INFO - 按IncomeGroup统计:
+2025-10-29 22:39:46,990 - INFO -   High income: 86 个国家
+2025-10-29 22:39:46,990 - INFO -   Low income: 25 个国家
+2025-10-29 22:39:46,991 - INFO -   Lower middle income: 50 个国家
+2025-10-29 22:39:46,991 - INFO -   Upper middle income: 54 个国家
+2025-10-29 22:39:46,991 - INFO - 有Country Code_2: 222 个国家
+2025-10-29 22:39:46,991 - INFO - 无Country Code_2: 43 个国家/地区
+2025-10-29 22:39:46,992 - INFO - 
+数据预览（前10行）:
+2025-10-29 22:39:46,994 - INFO - 
+    IncomeGroup          Country Name Country Code Country Code_2                      Region
+0   High income                 Aruba          ABW             AW   Latin America & Caribbean
+6   High income               Andorra          AND             AD       Europe & Central Asia
+8   High income  United Arab Emirates          ARE             AE  Middle East & North Africa
+11  High income        American Samoa          ASM             AS         East Asia & Pacific
+12  High income   Antigua and Barbuda          ATG             AG   Latin America & Caribbean
+13  High income             Australia          AUS             AU         East Asia & Pacific
+14  High income               Austria          AUT             AT       Europe & Central Asia
+17  High income               Belgium          BEL             BE       Europe & Central Asia
+21  High income              Bulgaria          BGR             BG       Europe & Central Asia
+22  High income               Bahrain          BHR             BH  Middle East & North Africa
+2025-10-29 22:39:46,995 - INFO - 保存更新后的CSV文件...
+2025-10-29 22:39:47,064 - INFO - 文件已保存至: Z:\local_environment_creation\cost\API_NY.GNP.PCAP.KD_DS2_en_csv_v2_124220\Metadata_Country_API_NY.GNP.PCAP.KD_DS2_en_csv_v2_124220.csv
+2025-10-29 22:39:47,064 - INFO - 处理完成！

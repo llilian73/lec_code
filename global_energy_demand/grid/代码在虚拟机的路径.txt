@@ -1,0 +1,1 @@
+代码在虚拟机的路径是："C:\Users\localhost\PycharmProjects\global_energy"

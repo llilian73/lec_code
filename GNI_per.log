@@ -1,0 +1,85 @@
+2025-10-29 22:15:18,666 - INFO - 开始处理GNI文件，添加国家二字母代码...
+2025-10-29 22:15:18,667 - INFO - 开始处理GNI文件...
+2025-10-29 22:15:18,675 - INFO - 读取文件: Z:\local_environment_creation\cost\API_NY.GNP.PCAP.KD_DS2_en_csv_v2_124220\API_NY.GNP.PCAP.KD_DS2_en_csv_v2_124220.csv
+2025-10-29 22:15:18,698 - INFO - 成功读取文件，共 266 行，3 列
+2025-10-29 22:15:18,699 - INFO - 开始生成Country Code_2列...
+2025-10-29 22:15:18,771 - WARNING - 未找到国家 'Central Europe and the Baltics' 对应的ISO代码
+2025-10-29 22:15:18,787 - WARNING - 未找到国家 'Channel Islands' 对应的ISO代码
+2025-10-29 22:15:18,836 - WARNING - 未找到国家 'Early-demographic dividend' 对应的ISO代码
+2025-10-29 22:15:18,853 - WARNING - 未找到国家 'East Asia & Pacific' 对应的ISO代码
+2025-10-29 22:15:18,869 - WARNING - 未找到国家 'Europe & Central Asia' 对应的ISO代码
+2025-10-29 22:15:18,889 - WARNING - 未找到国家 'Euro area' 对应的ISO代码
+2025-10-29 22:15:18,905 - WARNING - 未找到国家 'European Union' 对应的ISO代码
+2025-10-29 22:15:18,919 - WARNING - 未找到国家 'Fragile and conflict affected situations' 对应的ISO代码
+2025-10-29 22:15:18,942 - WARNING - 未找到国家 'High income' 对应的ISO代码
+2025-10-29 22:15:18,957 - WARNING - 未找到国家 'Heavily indebted poor countries (HIPC)' 对应的ISO代码
+2025-10-29 22:15:18,957 - INFO - 已处理 100/266 个国家
+2025-10-29 22:15:18,976 - WARNING - 未找到国家 'IBRD only' 对应的ISO代码
+2025-10-29 22:15:18,991 - WARNING - 未找到国家 'IDA & IBRD total' 对应的ISO代码
+2025-10-29 22:15:19,008 - WARNING - 未找到国家 'IDA total' 对应的ISO代码
+2025-10-29 22:15:19,024 - WARNING - 未找到国家 'IDA blend' 对应的ISO代码
+2025-10-29 22:15:19,040 - WARNING - 未找到国家 'IDA only' 对应的ISO代码
+2025-10-29 22:15:19,063 - WARNING - 未找到国家 'Not classified' 对应的ISO代码
+2025-10-29 22:15:19,085 - WARNING - 未找到国家 'Latin America & Caribbean' 对应的ISO代码
+2025-10-29 22:15:19,101 - WARNING - 未找到国家 'Least developed countries: UN classification' 对应的ISO代码
+2025-10-29 22:15:19,119 - WARNING - 未找到国家 'Low income' 对应的ISO代码
+2025-10-29 22:15:19,142 - WARNING - 未找到国家 'Lower middle income' 对应的ISO代码
+2025-10-29 22:15:19,158 - WARNING - 未找到国家 'Low & middle income' 对应的ISO代码
+2025-10-29 22:15:19,173 - WARNING - 未找到国家 'Late-demographic dividend' 对应的ISO代码
+2025-10-29 22:15:19,189 - WARNING - 未找到国家 'Middle East, North Africa, Afghanistan & Pakistan' 对应的ISO代码
+2025-10-29 22:15:19,208 - WARNING - 未找到国家 'Middle income' 对应的ISO代码
+2025-10-29 22:15:19,224 - WARNING - 未找到国家 'Middle East, North Africa, Afghanistan & Pakistan (excluding high income)' 对应的ISO代码
+2025-10-29 22:15:19,248 - WARNING - 未找到国家 'North America' 对应的ISO代码
+2025-10-29 22:15:19,264 - WARNING - 未找到国家 'OECD members' 对应的ISO代码
+2025-10-29 22:15:19,281 - WARNING - 未找到国家 'Other small states' 对应的ISO代码
+2025-10-29 22:15:19,297 - WARNING - 未找到国家 'Pre-demographic dividend' 对应的ISO代码
+2025-10-29 22:15:19,313 - WARNING - 未找到国家 'Puerto Rico (US)' 对应的ISO代码
+2025-10-29 22:15:19,328 - WARNING - 未找到国家 'Pacific island small states' 对应的ISO代码
+2025-10-29 22:15:19,343 - WARNING - 未找到国家 'Post-demographic dividend' 对应的ISO代码
+2025-10-29 22:15:19,343 - INFO - 已处理 200/266 个国家
+2025-10-29 22:15:19,358 - WARNING - 未找到国家 'Somalia, Fed. Rep.' 对应的ISO代码
+2025-10-29 22:15:19,374 - WARNING - 未找到国家 'Sub-Saharan Africa' 对应的ISO代码
+2025-10-29 22:15:19,389 - WARNING - 未找到国家 'Small states' 对应的ISO代码
+2025-10-29 22:15:19,420 - WARNING - 未找到国家 'East Asia & Pacific (IDA & IBRD countries)' 对应的ISO代码
+2025-10-29 22:15:19,435 - WARNING - 未找到国家 'Europe & Central Asia (IDA & IBRD countries)' 对应的ISO代码
+2025-10-29 22:15:19,461 - WARNING - 未找到国家 'Latin America & the Caribbean (IDA & IBRD countries)' 对应的ISO代码
+2025-10-29 22:15:19,478 - WARNING - 未找到国家 'Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)' 对应的ISO代码
+2025-10-29 22:15:19,494 - WARNING - 未找到国家 'South Asia (IDA & IBRD)' 对应的ISO代码
+2025-10-29 22:15:19,512 - WARNING - 未找到国家 'Sub-Saharan Africa (IDA & IBRD countries)' 对应的ISO代码
+2025-10-29 22:15:19,574 - WARNING - 未找到国家 'Upper middle income' 对应的ISO代码
+2025-10-29 22:15:19,607 - WARNING - 未找到国家 'World' 对应的ISO代码
+2025-10-29 22:15:19,624 - INFO - 成功添加Country Code_2列
+2025-10-29 22:15:19,625 - INFO - 成功匹配: 223 个国家
+2025-10-29 22:15:19,625 - INFO - 未匹配: 43 个国家/地区
+2025-10-29 22:15:19,625 - INFO - 未匹配的国家/地区（前20个）:
+2025-10-29 22:15:19,627 - INFO -   Central Europe and the Baltics
+2025-10-29 22:15:19,627 - INFO -   Channel Islands
+2025-10-29 22:15:19,628 - INFO -   Early-demographic dividend
+2025-10-29 22:15:19,628 - INFO -   East Asia & Pacific
+2025-10-29 22:15:19,629 - INFO -   Europe & Central Asia
+2025-10-29 22:15:19,629 - INFO -   Euro area
+2025-10-29 22:15:19,629 - INFO -   European Union
+2025-10-29 22:15:19,630 - INFO -   Fragile and conflict affected situations
+2025-10-29 22:15:19,631 - INFO -   High income
+2025-10-29 22:15:19,632 - INFO -   Heavily indebted poor countries (HIPC)
+2025-10-29 22:15:19,632 - INFO -   IBRD only
+2025-10-29 22:15:19,632 - INFO -   IDA & IBRD total
+2025-10-29 22:15:19,632 - INFO -   IDA total
+2025-10-29 22:15:19,633 - INFO -   IDA blend
+2025-10-29 22:15:19,633 - INFO -   IDA only
+2025-10-29 22:15:19,633 - INFO -   Not classified
+2025-10-29 22:15:19,633 - INFO -   Latin America & Caribbean
+2025-10-29 22:15:19,634 - INFO -   Least developed countries: UN classification
+2025-10-29 22:15:19,634 - INFO -   Low income
+2025-10-29 22:15:19,634 - INFO -   Lower middle income
+2025-10-29 22:15:19,635 - INFO - 保存更新后的CSV文件...
+2025-10-29 22:15:19,732 - INFO - 文件已保存至: Z:\local_environment_creation\cost\API_NY.GNP.PCAP.KD_DS2_en_csv_v2_124220\API_NY.GNP.PCAP.KD_DS2_en_csv_v2_124220.csv
+2025-10-29 22:15:19,732 - INFO - 数据预览（前5行）:
+2025-10-29 22:15:19,736 - INFO - 
+                  Country Name Country Code Country Code_2          2015
+0                        Aruba          ABW             AW  26302.002767
+1  Africa Eastern and Southern          AFE            AFE   1432.475809
+2                  Afghanistan          AFG             AF    568.977114
+3   Africa Western and Central          AFW            AFW   1808.147639
+4                       Angola          AGO             AO   3050.500773
+2025-10-29 22:15:19,736 - INFO - 处理完成！

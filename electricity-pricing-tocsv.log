@@ -1,0 +1,29 @@
+2025-10-29 10:44:45,073 - INFO - 开始全球电价数据转换...
+2025-10-29 10:44:45,073 - INFO - === 第一步：加载Excel数据 ===
+2025-10-29 10:44:45,074 - INFO - 开始加载Excel数据...
+2025-10-29 10:44:46,276 - INFO - 成功加载Excel数据，共 230 行，16 列
+2025-10-29 10:44:46,276 - INFO - Excel文件列名: ['Rank', 'Country code', 'Country name', 'Continental region', 'Tariffs measured', 'Average price of 1KW/h (local currency)', 'Currency', 'Conversion rate (USD) ', 'Average price of 1KW/h (USD)', 'Cheapest 1KW/h (Local currency)', 'Cheapest KW/h (USD)', 'Most expensive KW/h (Local currency)', 'Most expensive KW/h (USD)', 'Sample date', 'Global Totals (2021)', 'Unnamed: 15']
+2025-10-29 10:44:46,276 - INFO - === 第二步：提取需要的列 ===
+2025-10-29 10:44:46,276 - INFO - 开始提取需要的列...
+2025-10-29 10:44:46,276 - INFO - 可用的列名: ['Rank', 'Country code', 'Country name', 'Continental region', 'Tariffs measured', 'Average price of 1KW/h (local currency)', 'Currency', 'Conversion rate (USD) ', 'Average price of 1KW/h (USD)', 'Cheapest 1KW/h (Local currency)', 'Cheapest KW/h (USD)', 'Most expensive KW/h (Local currency)', 'Most expensive KW/h (USD)', 'Sample date', 'Global Totals (2021)', 'Unnamed: 15']
+2025-10-29 10:44:46,277 - INFO - 列名映射: 'rank' -> 'Rank'
+2025-10-29 10:44:46,282 - INFO - 成功提取数据，共 230 行
+2025-10-29 10:44:46,282 - INFO - 提取的列: ['rank', 'Country code', 'Country name', 'Continental region', 'Average price of 1KW/h (USD)']
+2025-10-29 10:44:46,282 - INFO - === 第三步：保存为CSV ===
+2025-10-29 10:44:46,283 - INFO - 开始保存CSV文件...
+2025-10-29 10:44:46,323 - INFO - CSV文件已保存至: Z:\local_environment_creation\cost\global-electricity-per-kwh-pricing-2021.csv
+2025-10-29 10:44:46,324 - INFO - 共保存 230 行数据
+2025-10-29 10:44:46,324 - INFO - 数据预览:
+2025-10-29 10:44:46,324 - INFO - 列名: ['rank', 'Country code', 'Country name', 'Continental region', 'Average price of 1KW/h (USD)']
+2025-10-29 10:44:46,325 - INFO - 前5行数据:
+2025-10-29 10:44:46,325 - INFO -   行1: {'rank': 1, 'Country code': 'LY', 'Country name': 'Libya', 'Continental region': 'NORTHERN AFRICA', 'Average price of 1KW/h (USD)': 0.0065005416}
+2025-10-29 10:44:46,326 - INFO -   行2: {'rank': 2, 'Country code': 'AO', 'Country name': 'Angola', 'Continental region': 'SUB-SAHARAN AFRICA', 'Average price of 1KW/h (USD)': 0.012712721778479999}
+2025-10-29 10:44:46,326 - INFO -   行3: {'rank': 3, 'Country code': 'SD', 'Country name': 'Sudan', 'Continental region': 'SUB-SAHARAN AFRICA', 'Average price of 1KW/h (USD)': 0.01449771675}
+2025-10-29 10:44:46,326 - INFO -   行4: {'rank': 4, 'Country code': 'KG', 'Country name': 'Kyrgyzstan', 'Continental region': 'CIS (FORMER USSR)', 'Average price of 1KW/h (USD)': 0.01727594218}
+2025-10-29 10:44:46,326 - INFO -   行5: {'rank': 5, 'Country code': 'ZW', 'Country name': 'Zimbabwe', 'Continental region': 'SUB-SAHARAN AFRICA', 'Average price of 1KW/h (USD)': 0.02055672}
+2025-10-29 10:44:46,326 - INFO - === 统计信息 ===
+2025-10-29 10:44:46,327 - INFO - 总行数: 230
+2025-10-29 10:44:46,327 - INFO - 总列数: 5
+2025-10-29 10:44:46,328 - INFO - 缺失值统计:
+2025-10-29 10:44:46,328 - INFO -   Country code: 1 个缺失值
+2025-10-29 10:44:46,328 - INFO - 全球电价数据转换完成！

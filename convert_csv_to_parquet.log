@@ -1,0 +1,7 @@
+2025-10-28 21:09:41,042 - INFO - ============================================================
+2025-10-28 21:09:41,043 - INFO - CSV到Parquet格式转换工具
+2025-10-28 21:09:41,043 - INFO - ============================================================
+2025-10-28 21:09:41,279 - INFO - 源目录: Z:\local_environment_creation\energy_consumption_gird\result\result_half
+2025-10-28 21:09:41,279 - INFO - 目标目录: Z:\local_environment_creation\energy_consumption_gird\result\result_half_parquet
+2025-10-28 21:09:41,279 - INFO - 开始CSV到Parquet格式转换...
+2025-10-28 21:09:41,279 - INFO - === 统计文件数量 ===

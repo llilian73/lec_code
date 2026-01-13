@@ -1,0 +1,2 @@
+python East_energy_last_for_all_hw_SSP1.py
+python West_energy_last_for_all_hw_SSP1.py
